@@ -13,6 +13,6 @@ Assignments: <br />
     HW5: Cost Calculator for Operations in DataBase (Jupyter Notebook) <br />
 
 Project: <br />
-    Phase1: <br />
-    Phase2: <br />
-    Phase3: <br />
+    Phase1: MySQL Queries for a Massager<br />
+    Phase2: CLI Backend fot the Massager (Python) <br />
+    Phase3: CLI Extension for Both MySQL and ElasticSearch<br />
