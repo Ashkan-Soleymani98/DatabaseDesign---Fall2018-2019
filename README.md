@@ -4,7 +4,7 @@ Undergraduate Course (Fall 2018-2019) <br />
 Sharif University of Technology <br />
 Computer Engineering Department <br />
 Instructor: Dr. Mehran Rivadeh <br />
-Practical Assignments and Course Project (SQL ) <br />
+Practical Assignments (Python and SQL) and Course Project (Python and MySQL) <br />
 
 
 Assignments: <br /> 
