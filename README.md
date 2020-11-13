@@ -1,5 +1,5 @@
 # DatabaseDesign---Fall2018-2019
-DatabaseDesign <br />
+Database Design <br />
 Undergraduate Course (Fall 2018-2019) <br />
 Sharif University of Technology <br />
 Computer Engineering Department <br />
